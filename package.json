@@ -1,0 +1,20 @@
+{
+  "name": "smart-resto-server",
+  "version": "1.0.0",
+  "description": "this is REST server for smart-resto react-native application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azzuarezh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.5.6",
+    "expo-server-sdk": "^3.3.0",
+    "express": "^4.17.0",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.2.6"
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"token":"ExponentPushToken[XXXXXXXXXXXXXXXXXX]",
+	"description":"I want to order some food in table number XX",
+	"data": [
+		{
+		"food_id":1,
+		"qty":2
+		},
+		{
+		"food_id":1,
+		"qty":5
+		}
+	]
+}
